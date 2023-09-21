@@ -49,6 +49,7 @@ a {
 p {
     font-size: 16px;
 }
+/* commented this code out I think its redundant as thats the default font size */
 
 .hero {
     height: 100%;
