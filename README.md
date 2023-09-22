@@ -12,7 +12,7 @@
 
 [Visit the Deployed Site](https://apixa25.github.io/horiseon-web-accessibility/)
 
-Web accessibility standards are a list of ideals for making Web content more accessible.  The ideals are that the site be as Perceivable, Operable, and Understandable as possible. Especially taking into consideration people with special needs, and users with limited devices such as mobile phones instead of desk-tops. The purpose is to make the web-page as user friendly for everyone as possible, on every device possible. we
+Web accessibility standards are a list of ideals for making Web content more accessible.  The ideals are that the site be as Perceivable, Operable, and Understandable as possible. Especially taking into consideration people with special needs, and users with limited devices such as mobile phones instead of desk-tops. The purpose is to make the web-page as user friendly for everyone as possible, on every device possible.
 
 I was given an existing page for a fictitious company "Horiseon". In this exercise the client did not want the general look of the site to change. So no changes to graphic elements or their behavior were modified. 
 
